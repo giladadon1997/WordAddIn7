@@ -56,7 +56,7 @@
             // 
             // button1
             // 
-            this.button1.Label = "button1";
+            this.button1.Label =  "button1";
             this.button1.Name = "button1";
             // 
             // Ribbon1
